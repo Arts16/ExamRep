@@ -23,6 +23,6 @@
             <TextBlock Text="звание"/>
             <ComboBox x:Name="CBRank" Width="200" Margin="100" Background="Bisque" DisplayMemberPath="Name"/>
         </StackPanel>
-        <DataGrid Grid.Row="1" x:Name="DGSpisok" Background="Green"/>
+        <DataGrid Grid.Row="1" x:Name="DGSpisok" Background="Beige"/>
     </Grid>
 </Page>
